@@ -6,3 +6,9 @@ body {
 }
 
 font-family: "Gill Sans", sans-serif;
+
+.center {
+border: 5px solid #FFFF00;
+display: flex;
+justify-content: center;
+}
